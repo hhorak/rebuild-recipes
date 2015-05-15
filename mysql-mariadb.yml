@@ -1,3 +1,4 @@
+# Recipes for MySQL and MariabDB Software Collections
 ---
 mysql55
   - name: MySQL 5.5
