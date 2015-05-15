@@ -21,5 +21,6 @@ rh-mariadb100
   - name: MariaDB 10.0
   - packages:
     - rh-mariadb100
+    - Judy
     - mariadb
 
